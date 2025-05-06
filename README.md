@@ -1,5 +1,4 @@
-# helenhg.github.io
-Technical Writing Samples
+
 # Technical Writing Samples
 
 - [Teradata® Package for Python User Guide][teradataml]
